@@ -22,7 +22,7 @@ Please refer to the LICENSE in the repo.
 
 ## Website Link
 
-https://elizabethl0421.github.io/homework-challenge1/
+https://elizabethl0421.github.io/Homework-Challenge1/
 
 ## Screenshot
 
